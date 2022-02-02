@@ -2,7 +2,7 @@
 
 A full stack dApp starter for minting NFTs built on Ethereum (Solidity) with Next.js (React).
 
-This repo contains boilerplate code for minting NFTs from the client-side using [Solidity](https://soliditylang.org/), [React](https://reactjs.org/) and [TailwindCSS](https://tailwindcss.com/).
+This repo contains boilerplate code for minting NFTs from the client-side using [Solidity](https://soliditylang.org/), [React](https://reactjs.org/).
 
 ![NFT Minting dApp Starter](/public/screenshot.png)
 
@@ -15,7 +15,7 @@ This repo contains boilerplate code for minting NFTs from the client-side using 
 
 ### Clone This Repo
 
-Use `git clone https://github.com/tomhirst/nft-minting-dapp-starter.git` to get the files within this repository onto your local machine.
+Use `git clone https://github.com/woobinpro/NFT-Minting-using-hardhat.git` to get the files within this repository onto your local machine.
 
 ### Environment Setup
 
@@ -83,8 +83,6 @@ All state is retained on browser refresh.
 ## Editing The Front-End
 
 To modify the front page of your application, edit `pages/index.js`.
-
-All [TailwindCSS classes](https://tailwindcss.com/docs) are available to you.
 
 To lint your front-end code, use `npm run lint`.
 
